@@ -10,6 +10,9 @@ My name is Mateusz Strzałkowski, a university student from Poland, quite new to
 ## My GitHub Pages:
 - [GLSL mapping function[PL]](https://m-strzalkowski.github.io/funkcja_mapujaca)
 
+## Interesting repo from article
+ - [https://github.com/m-strzalkowski/deep-fluids](https://github.com/m-strzalkowski/deep-fluids)
+
 <!--
 **m-strzalkowski/m-strzalkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
