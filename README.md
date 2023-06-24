@@ -9,6 +9,9 @@ My name is Mateusz Strzałkowski, a university student from Poland.
 ![](https://img.shields.io/badge/Code-NASM-informational?style=flat&logo=asm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
+## Interesting Repos:
+ - [Compiler of a designed language](https://github.com/m-strzalkowski/kompilatorpl)
+ - [Software for Raspberry Pi with Inertial Measurement Units](https://github.com/m-strzalkowski/rejestrator)
 ## My GitHub Pages:
 - [GLSL mapping function[PL]](https://m-strzalkowski.github.io/funkcja_mapujaca)
 
