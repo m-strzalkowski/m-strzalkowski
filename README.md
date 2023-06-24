@@ -1,5 +1,5 @@
 # Hello there 👋
-My name is Mateusz Strzałkowski, a university student from Poland.
+My name is Mateusz Strzałkowski, a university student from Poland. 
 ## Technologies
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
